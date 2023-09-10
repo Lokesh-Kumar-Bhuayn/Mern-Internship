@@ -1,6 +1,5 @@
 # Mern-Internship
 
-  Document
 
 21BPS1216  
 Lokesh Kumar Bhuyan
