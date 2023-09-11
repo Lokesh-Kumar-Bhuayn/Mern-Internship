@@ -10,7 +10,6 @@ Index page
 * CSS output Screenshots
 
  ## HTML task
-==========
 
 Task1:- [Link1](./HTML-Task1.html)
 
@@ -23,10 +22,6 @@ Task4:-[Link4](./HTML-Task4.html)
 Task5:-[Link5](./HTML-Task5.html)
 
 ## CSS task
-==========
-Task Number
-
-Link
 
 Task1:-[Link1](./CSS-Task1.html)
 
