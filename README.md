@@ -73,12 +73,12 @@ HTML Task Screenshots
 ---------------------
 
 #### Task 1
+<img width="1440" alt="HTML Task-1" src="https://github.com/Lokesh-Kumar-Bhuayn/Mern-Internship/assets/144611631/14339816-1064-453e-88a4-664a9782941b">
 
-![Task](HTML Task-1.png)
 
 #### Task 2
 
-![Task](HTML Task-2.png)
+
 
 #### Task 3
 
