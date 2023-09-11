@@ -6,11 +6,8 @@ Lokesh Kumar Bhuyan
 Index page
 ==========
 
-HTML task
+## HTML task
 
-Task Number
-
-Link
 
 Task1
 
@@ -66,7 +63,7 @@ Task7
 
 [Link7](./CSS-Task7.html)
 
-Screenshots img { max-width: 30%; height: auto; display: block; margin: 0 auto; } h2 { text-align: center; } h4 { text-align: center; }
+
 
 HTML Task Screenshots
 ---------------------
@@ -78,46 +75,59 @@ HTML Task Screenshots
 #### Task 2
 
 
+<img width="1440" alt="HTML Task-2" src="https://github.com/Lokesh-Kumar-Bhuayn/Mern-Internship/assets/144611631/18148a5e-248e-4955-af75-4ddb7e63ca8f">
+
+
 
 #### Task 3
 
-![Task](HTML Task-3.png)
+<img width="1440" alt="HTML Task-3" src="https://github.com/Lokesh-Kumar-Bhuayn/Mern-Internship/assets/144611631/21bd4fec-099d-40d5-98d0-82f23ab6e9f9">
+
 
 #### Task 4
 
-![Task](HTML Task-4.png)
+
+<img width="1440" alt="HTML Task-4" src="https://github.com/Lokesh-Kumar-Bhuayn/Mern-Internship/assets/144611631/d0533f95-4345-4e0c-a030-fe38a12d8d38">
 
 #### Task 5
 
-![Task](HTML Task-5.png)
+<img width="1440" alt="HTML Task-5" src="https://github.com/Lokesh-Kumar-Bhuayn/Mern-Internship/assets/144611631/e18116b4-6986-4096-96da-0e950c178f12">
+
 
 CSS Task Screenshots
 --------------------
 
 #### Task 1
 
-![Task](CSS Task-1.png)
+<img width="1440" alt="CSS Task-1" src="https://github.com/Lokesh-Kumar-Bhuayn/Mern-Internship/assets/144611631/21a8dc03-33bc-4b0e-9dfc-81ef3ad97820">
+
 
 #### Task 2
 
-![Task](CSS Task-2.png)
+<img width="1440" alt="CSS Task-2" src="https://github.com/Lokesh-Kumar-Bhuayn/Mern-Internship/assets/144611631/142a95a6-297e-4950-8b9e-baf76ebe2906">
+
 
 #### Task 3
 
-![Task](CSS Task-3.png)
+<img width="1440" alt="CSS Task-3" src="https://github.com/Lokesh-Kumar-Bhuayn/Mern-Internship/assets/144611631/c404fe72-8782-45e7-ab3f-88baaf48f0d6">
+
 
 #### Task 4
 
-![Task](CSS Task-4.png)
+<img width="1440" alt="CSS Task-4" src="https://github.com/Lokesh-Kumar-Bhuayn/Mern-Internship/assets/144611631/fdcea587-b800-4c0b-bb1f-67bc829fbca1">
+
 
 #### Task 5
 
-![Task](CSS Task-5.png)
+<img width="1440" alt="CSS Task-5" src="https://github.com/Lokesh-Kumar-Bhuayn/Mern-Internship/assets/144611631/50eab745-1a3a-40fe-913f-9b7ef05d09f2">
+
 
 #### Task 6
 
-![Task](CSS Task-6.png)
+<img width="1440" alt="CSS Task-6" src="https://github.com/Lokesh-Kumar-Bhuayn/Mern-Internship/assets/144611631/34d349a9-13db-478e-8131-fed20c32ecfb">
+
 
 #### Task 7
 
-![Task](CSS Task-7.png)
+
+<img width="1440" alt="CSS Task-7" src="https://github.com/Lokesh-Kumar-Bhuayn/Mern-Internship/assets/144611631/c14e97cf-1b58-4718-9775-0cf331baf279">
